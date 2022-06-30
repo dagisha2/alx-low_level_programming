@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	char S[100] = "with proper grammar, but the outcome is a piece of art,";
+	char S[100] = "with proper grammar, but the outcome is a piece of art,""\n";
 
 	printf("%s", S);
 
