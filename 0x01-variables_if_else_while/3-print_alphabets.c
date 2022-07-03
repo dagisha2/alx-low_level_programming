@@ -2,12 +2,15 @@
 
 int main()
 {
-	int n,k;
-	for(k= 'A'; k<='Z' ; k++){
-		for(n = 'a' ; n<='z'; n++){
-			putchar(n);
+	int n, k;
+	for(n= 'a'; n<='z' ; n++){
+		for(k = 'A' ; k<='Z'; k++){
+			putchar(k);
 		}
-		putchar(k);
+		putchar(n);
+}
+                 putchar('\n');
+		
 	}
 	return 0;
 }
