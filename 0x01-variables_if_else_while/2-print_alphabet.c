@@ -2,10 +2,9 @@
 
 int main()
 {
-	char c;
+	int c;
 	for (c='a';  c <='z';c++){
-		putchar(c);
-		
-	}
+		putchar(c)"\n";
+		}
 	return 0;
 }
