@@ -1,17 +1,25 @@
 #include <stdio.h>
-
-int main()
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+*/
+int main(void)
 {
 	int n;
-	for(n='a'; n<='z';n++){
-		if(n=='e'){
-			continue;
-		}
-		if(n=='q'){
-			continue;}
-		putchar(n);
+for (n = 'a' ; n <= 'z' ; n++)
+{
+if (n == 'e')
+{
+continue;
+}
+if (n == 'q')
+{
+continue;
+}
+putchar(n);
 
-	}
-	putchar('\n');
-		return 0;
+}
+putchar('\n');
+		return (0);
 }
