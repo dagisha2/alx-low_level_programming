@@ -1,16 +1,20 @@
 #include <stdio.h>
+#include <ctype.h>
 
 int main()
 {
-	int n, k;
+	int n;
 	for(n= 'a'; n<='z' ; n++){
-		for(k = 'A' ; k<='Z'; k++){
-			putchar(k);
-		}
-		putchar(n);
+            putchar(n);
+	    if(n=='z'){
+		    for(n='A';n<='Z';n++){
+			    putchar(n);
+}
+       break;
+       }
 }
                  putchar('\n');
 		
-	}
+	
 	return 0;
 }
