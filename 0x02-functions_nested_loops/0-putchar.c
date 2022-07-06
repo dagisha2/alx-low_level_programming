@@ -2,16 +2,10 @@
 #include "main.h"
 
 /**
-* main - Call other function
+* putcharr- Prints "_putchar"
 *
 * Return: 0
 */
-int main(void)
-{
-
-putcharr();
-return (0);
-}
 void putcharr(void)
 {
 	_putchar('_');
