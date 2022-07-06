@@ -2,11 +2,11 @@
 #include "main.h"
 
 /**
-* putcharr- Prints "_putchar"
+* main- Prints _putchar
 *
 * Return: 0
 */
-void putcharr(void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -17,4 +17,5 @@ void putcharr(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+	return (0);
 }
