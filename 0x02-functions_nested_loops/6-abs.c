@@ -12,6 +12,6 @@ if (d < 0)
 {
 d = -d;
 }
-return (0);
+return (d);
 }
 
