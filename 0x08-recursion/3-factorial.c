@@ -3,7 +3,7 @@
 /**
 * factorial - factorial of a number
 * @n: input integer
-* 
+*
 * Return: 0
 */
 int factorial(int n)
@@ -14,9 +14,9 @@ return (-1);
 }
 if (n <= 1)
 {
-return (1);    
+return (1);
 }
-return(n * factorial(n-1));
+return (n * factorial(n - 1));
 }
 
 
