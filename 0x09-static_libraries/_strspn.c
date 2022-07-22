@@ -1,9 +1,10 @@
 unsigned int _strspn(char *s, char *accept);
 /**
-* main - nothing
+* _strspn - nothing
+*
 * Return: 0
 */
-int main(void)
+unsigned int _strspn(char *s, char *accept)
 {
 return (0);
 }
