@@ -1,4 +1,3 @@
-char *_strpbrk(char *s, char *accept);
 /**
 * _strpbrk - nothing
 *

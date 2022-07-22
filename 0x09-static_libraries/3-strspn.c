@@ -1,4 +1,3 @@
-unsigned int _strspn(char *s, char *accept);
 /**
 * _strspn - nothing
 *

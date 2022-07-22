@@ -1,4 +1,3 @@
-int _atoi(char *s);
 /**
  * _atoi- nothing
  *
