@@ -1,10 +1,10 @@
 int _atoi(char *s);
 /**
- * main - nothing
+ * _atoi- nothing
  *
  * Return: 0
 */
-int main(void)
+int _atoi(char *s)
 {
 return (0);
 }

@@ -1,10 +1,10 @@
 char *_strcpy(char *dest, char *src);
 /**
- * main - nothing
+ * _strcpy - nothing
  *
  * Return: 0
 */
-int main(void)
+char *_strcpy(char *dest, char *src)
 {
 return (0);
 }
