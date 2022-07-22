@@ -1,0 +1,11 @@
+char *_memset(char *s, char b, unsigned int n);
+
+/**
+* main - nothing
+*
+* Return: 0
+*/
+int main(void)
+{
+return (0);
+}
