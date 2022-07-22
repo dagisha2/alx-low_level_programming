@@ -1,5 +1,8 @@
 /**
 * _strncat - nothing
+* @dest: argu1
+* @src: argu2
+* @n: argu3
 *
 * Return: 0
 */

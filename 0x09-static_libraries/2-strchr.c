@@ -1,5 +1,7 @@
 /**
 * _strchr - nothing
+* @s: argu1
+* @c: argu2
 *
 * Return: 0
 */

@@ -1,5 +1,7 @@
 /**
 * _strstr - nothing
+* @haystack: argu1
+* @needle: argu2
 *
 * Return: 0
 */

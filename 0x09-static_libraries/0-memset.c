@@ -1,5 +1,8 @@
 /**
 * _memset - nothing
+* @s: input
+* @b: input2
+* @n: integer
 *
 * Return: 0
 */

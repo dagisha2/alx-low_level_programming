@@ -1,5 +1,6 @@
 /**
  * _atoi- nothing
+ * @s: argu1
  *
  * Return: 0
 */
