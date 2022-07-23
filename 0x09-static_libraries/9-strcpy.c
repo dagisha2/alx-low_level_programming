@@ -1,11 +1,9 @@
 /**
- * _strcpy - nothing
- * @dest: argu1
- * @src: argu2
- *
- * Return: 0
+* _strcpy - nothing
+*
+* Return: 0
 */
-char *_strcpy(char *dest, char *src)
+char *_strcpy(void)
 {
 return (0);
 }

@@ -1,11 +1,9 @@
 /**
 * _strspn - nothing
-* @s: argu1
-* @accept: argu2
 *
 * Return: 0
 */
-unsigned int _strspn(char *s, char *accept)
+unsigned int _strspn(void)
 {
 return (0);
 }

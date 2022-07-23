@@ -1,10 +1,9 @@
 /**
  * _atoi- nothing
- * @s: argu1
  *
  * Return: 0
 */
-int _atoi(char *s)
+int _atoi(void)
 {
 return (0);
 }
