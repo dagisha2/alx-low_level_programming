@@ -13,7 +13,7 @@ if (d == 0)
 {
 printf("\n");
 }
-if (d != NULL)
+if (d != 0)
 {
 if (!(d->name))
 {
